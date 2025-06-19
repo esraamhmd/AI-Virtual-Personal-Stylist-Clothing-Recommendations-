@@ -86,7 +86,9 @@ The project uses a fashion dataset from Kaggle containing:
 ## 🏗️ Model Architecture
 
 ### MobileNetV2 Architecture
-The system utilizes MobileNetV2 for efficient feature extraction:
+The system utilizes MobileNetV3 for efficient feature extraction:
+![image](https://github.com/user-attachments/assets/df3b36d5-a1a0-4118-b827-e68dc415ec72)
+
 
 **Key Components:**
 - **Input Layer**: 224×224×3 RGB images
