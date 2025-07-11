@@ -129,6 +129,9 @@ The system provides visual recommendations showing:
 - Bottomwear (Men's Casual) 
 - Dresses (Women's Party)
 - Topwear (Men's Casual)
+<img width="938" height="844" alt="image" src="https://github.com/user-attachments/assets/80ad99ae-c380-4b0f-b45a-37a524345f8e" />
+<img width="900" height="826" alt="image" src="https://github.com/user-attachments/assets/b5c23f0c-9afc-4e63-8823-c38c7aa56c3a" />
+
 
 ## 🔧 Key Functions
 
