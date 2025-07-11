@@ -4,7 +4,7 @@ A comprehensive fashion recommendation system that leverages deep learning and c
 
 ## 🌟 Features
 
-- **Visual Feature Extraction**: Uses MobileNetV2 for extracting deep visual features from fashion images
+- **Visual Feature Extraction**: Uses MobileNetV3 for extracting deep visual features from fashion images
 - **Personalized Recommendations**: Suggests items based on gender, category, and usage preferences
 - **Similarity-Based Matching**: Employs cosine similarity to find visually similar fashion products
 - **Interactive Interface**: User-friendly input system for specifying preferences
@@ -75,7 +75,7 @@ The project uses a fashion dataset from Kaggle containing:
 - **Image Preprocessing**: Resizing to 224×224, normalization
 - **Label Encoding**: Text to numeric conversion with one-hot encoding
 - **TensorFlow Pipeline**: Optimized data pipeline with batching and caching
-- **Feature Extraction**: MobileNetV2-based feature extraction in batches
+- **Feature Extraction**: MobileNetV3-based feature extraction in batches
 
 ### 5. Recommendation System
 - **User Input Collection**: Gender, subcategory, and usage preferences
@@ -85,7 +85,7 @@ The project uses a fashion dataset from Kaggle containing:
 
 ## 🏗️ Model Architecture
 
-### MobileNetV2 Architecture
+### MobileNetV3 Architecture
 The system utilizes MobileNetV3 for efficient feature extraction:
 ![image](https://github.com/user-attachments/assets/df3b36d5-a1a0-4118-b827-e68dc415ec72)
 
@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Kaggle for providing the fashion dataset
-- TensorFlow team for the MobileNetV2 pre-trained model
+- TensorFlow team for the MobileNetV3 pre-trained model
 - Open source community for the various libraries used
 
 ## 📞 Contact
